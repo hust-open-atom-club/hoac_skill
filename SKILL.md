@@ -26,7 +26,7 @@ description: |
 - 俱乐部 + 公众号
   - 俱乐部公众号名称：开源内核安全修炼
   - 俱乐部公众号微信号：kernel_sec_pratice
-  - 俱乐部公众号介绍：华中科技大学开放原子开源俱乐部（https://hust.openatom.club/）官方公众号，主要用于俱乐部活动宣传，HCTT译文推广，安全漏洞或事件分析等。
+  - 俱乐部公众号介绍：[华中科技大学开放原子开源俱乐部](https://hust.openatom.club)官方公众号，主要用于俱乐部活动宣传，HCTT译文推广，安全漏洞或事件分析等。
 - 俱乐部 + QQ
   - 俱乐部QQ大群名称：HUST OPEN ATOM CLUB | OS2EDU
   - 俱乐部QQ大群邀请链接：https://qm.qq.com/q/2uEd11lkWk
